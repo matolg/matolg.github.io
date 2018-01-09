@@ -1,5 +1,7 @@
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
 theme: jekyll-theme-architect
 name: matolg's bookshelf
 markdown: kramdown
-plugins:
-  - jekyll-sitemap
+paginate: 5
